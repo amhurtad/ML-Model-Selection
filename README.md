@@ -3,4 +3,4 @@ I assessed the performance of three different machine learning models: Decision 
 
 The four datasets were taken from the UCI Machine Learning Repository.
 
-Further results and discussion can be found in the Model Selection file. 
+Further results and discussion can be found in the ML Model Selection file. 
